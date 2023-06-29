@@ -1,0 +1,6 @@
+C:\Users\aguil\OneDrive\Escritorio\Tarea\Form.Model\bin\Debug\Form.Model.dll
+C:\Users\aguil\OneDrive\Escritorio\Tarea\Form.Model\bin\Debug\Form.Model.pdb
+C:\Users\aguil\OneDrive\Escritorio\Tarea\Form.Model\obj\Debug\Form.Model.csproj.AssemblyReference.cache
+C:\Users\aguil\OneDrive\Escritorio\Tarea\Form.Model\obj\Debug\Form.Model.csproj.CoreCompileInputs.cache
+C:\Users\aguil\OneDrive\Escritorio\Tarea\Form.Model\obj\Debug\Form.Model.dll
+C:\Users\aguil\OneDrive\Escritorio\Tarea\Form.Model\obj\Debug\Form.Model.pdb

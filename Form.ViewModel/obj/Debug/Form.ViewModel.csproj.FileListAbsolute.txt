@@ -1,0 +1,9 @@
+C:\Users\aguil\OneDrive\Escritorio\Tarea\Form.ViewModel\bin\Debug\Form.ViewModel.dll
+C:\Users\aguil\OneDrive\Escritorio\Tarea\Form.ViewModel\bin\Debug\Form.ViewModel.pdb
+C:\Users\aguil\OneDrive\Escritorio\Tarea\Form.ViewModel\bin\Debug\Form.Model.dll
+C:\Users\aguil\OneDrive\Escritorio\Tarea\Form.ViewModel\bin\Debug\Form.Model.pdb
+C:\Users\aguil\OneDrive\Escritorio\Tarea\Form.ViewModel\obj\Debug\Form.ViewModel.csproj.AssemblyReference.cache
+C:\Users\aguil\OneDrive\Escritorio\Tarea\Form.ViewModel\obj\Debug\Form.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\aguil\OneDrive\Escritorio\Tarea\Form.ViewModel\obj\Debug\Form.ViewModel.csproj.CopyComplete
+C:\Users\aguil\OneDrive\Escritorio\Tarea\Form.ViewModel\obj\Debug\Form.ViewModel.dll
+C:\Users\aguil\OneDrive\Escritorio\Tarea\Form.ViewModel\obj\Debug\Form.ViewModel.pdb
